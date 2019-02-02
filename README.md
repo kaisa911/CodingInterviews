@@ -15,3 +15,7 @@
 | 12 | [Power 数值的整数次方](https://github.com/kaisa911/CodingInterviews/blob/master/solution/12-Power.js) | 
 | 13 | [ReOrderArray 调整数组顺序使奇数位于偶数前面](https://github.com/kaisa911/CodingInterviews/blob/master/solution/13-ReOrderArray.js) | 
 | 14 | [FindKthToTail 链表中倒数第k个结点](https://github.com/kaisa911/CodingInterviews/blob/master/solution/14-FindKthToTail.js) | 
+| 15 | [ReverseList 反转链表](https://github.com/kaisa911/CodingInterviews/blob/master/solution/15-ReverseList.js) | 
+| 16 | [MergeTwoSortList 合并两个排序的链表](https://github.com/kaisa911/CodingInterviews/blob/master/solution/16-MergeTwoSortList.js) | 
+| 17 | [HasSubtree 树的子结构](https://github.com/kaisa911/CodingInterviews/blob/master/solution/17-HasSubtree.js) | 
+| 18 | [TreeNodeMirror 二叉树的镜像](https://github.com/kaisa911/CodingInterviews/blob/master/solution/18-TreeNodeMirror.js) | 
