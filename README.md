@@ -19,3 +19,5 @@
 | 16 | [MergeTwoSortList 合并两个排序的链表](https://github.com/kaisa911/CodingInterviews/blob/master/solution/16-MergeTwoSortList.js) | 
 | 17 | [HasSubtree 树的子结构](https://github.com/kaisa911/CodingInterviews/blob/master/solution/17-HasSubtree.js) | 
 | 18 | [TreeNodeMirror 二叉树的镜像](https://github.com/kaisa911/CodingInterviews/blob/master/solution/18-TreeNodeMirror.js) | 
+| 19 | [PrintMatrix 顺时针打印矩阵](https://github.com/kaisa911/CodingInterviews/blob/master/solution/19-PrintMatrix.js) | 
+| 20 | [Stack 包含min函数的栈](https://github.com/kaisa911/CodingInterviews/blob/master/solution/20-Stack.js) |
