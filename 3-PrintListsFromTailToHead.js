@@ -2,11 +2,11 @@
     this.val = x;
     this.next = null;
 }*/
-function printListFromTailToHead(head) {
-  var res = [];
+const printListFromTailToHead = head => {
+  const res = [];
   while (head) {
     res.push(head.val);
     head = head.next;
   }
   return res.reverse();
-}
+};

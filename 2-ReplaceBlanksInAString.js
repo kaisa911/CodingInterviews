@@ -1,3 +1,3 @@
-function replaceSpace(str) {
+const replaceSpace = str => {
   return str.replace(/\s/g, '%20');
-}
+};

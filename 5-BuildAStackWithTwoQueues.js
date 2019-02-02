@@ -1,22 +1,22 @@
 function Stack() {
-  var arr = [];
-  this.push = function(node) {
+  const arr = [];
+  this.push = node => {
     arr.push(node);
   };
-  this.pop = function() {
+  this.pop = () => {
     return arr.pop();
   };
-  this.isEmpty = function() {
+  this.isEmpty = () => {
     return arr.length === 0;
   };
 }
-var stack1 = new Stack();
-var stack2 = new Stack();
 
-function push(node) {
-  stack1.push(node);
-}
-function pop() {
+const stack1 = new Stack();
+const stack2 = new Stack();
+
+const push = node => stack1.push(node);
+
+const pop = () => {
   if (stack1.isEmpty() && stack2.isEmpty()) {
     throw new Error('Queue is empty');
   }
@@ -26,4 +26,4 @@ function pop() {
     }
   }
   return stack2.pop();
-}
+};
