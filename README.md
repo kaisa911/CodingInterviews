@@ -21,3 +21,5 @@
 | 18 | [TreeNodeMirror 二叉树的镜像](https://github.com/kaisa911/CodingInterviews/blob/master/solution/18-TreeNodeMirror.js) | 
 | 19 | [PrintMatrix 顺时针打印矩阵](https://github.com/kaisa911/CodingInterviews/blob/master/solution/19-PrintMatrix.js) | 
 | 20 | [Stack 包含min函数的栈](https://github.com/kaisa911/CodingInterviews/blob/master/solution/20-Stack.js) |
+| 21 | [IsPopOrder 栈的压入、弹出序列](https://github.com/kaisa911/CodingInterviews/blob/master/solution/21-IsPopOrder.js) |
+| 22 | [PrintFromTopToBottom 从上往下打印二叉树](https://github.com/kaisa911/CodingInterviews/blob/master/solution/22-PrintFromTopToBottom.js) |
