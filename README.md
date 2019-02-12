@@ -23,3 +23,8 @@
 | 20 | [Stack 包含min函数的栈](https://github.com/kaisa911/CodingInterviews/blob/master/solution/20-Stack.js) |
 | 21 | [IsPopOrder 栈的压入、弹出序列](https://github.com/kaisa911/CodingInterviews/blob/master/solution/21-IsPopOrder.js) |
 | 22 | [PrintFromTopToBottom 从上往下打印二叉树](https://github.com/kaisa911/CodingInterviews/blob/master/solution/22-PrintFromTopToBottom.js) |
+| 28 | [MoreThanHalfNum_Solution 数组中出现次数超过一半的数字](https://github.com/kaisa911/CodingInterviews/blob/master/solution/28-MoreThanHalfNum_Solution.js) |
+| 29 | [GetLeastNumbers_Solution 最小的K个数](https://github.com/kaisa911/CodingInterviews/blob/master/solution/29-GetLeastNumbers_Solution.js) |
+| 30 | [FindGreatestSumOfSubArray 连续子数组的最大和](https://github.com/kaisa911/CodingInterviews/blob/master/solution/30-FindGreatestSumOfSubArray.js) |
+| 31 | [NumberOf1Between1AndN_Solution 整数中1出现的次数（从1到n整数中1出现的次数）](https://github.com/kaisa911/CodingInterviews/blob/master/solution/31-NumberOf1Between1AndN_Solution.js) |
+
