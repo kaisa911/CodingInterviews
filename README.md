@@ -28,4 +28,5 @@
 | 30 | [FindGreatestSumOfSubArray 连续子数组的最大和](https://github.com/kaisa911/CodingInterviews/blob/master/solution/30-FindGreatestSumOfSubArray.js) |
 | 31 | [NumberOf1Between1AndN_Solution 整数中1出现的次数（从1到n整数中1出现的次数）](https://github.com/kaisa911/CodingInterviews/blob/master/solution/31-NumberOf1Between1AndN_Solution.js) |
 | 32 | [PrintMinNumber 把数组排成最小的数](https://github.com/kaisa911/CodingInterviews/blob/master/solution/32-PrintMinNumber.js) |
+| 33 | [Getresber_Solution 丑数](https://github.com/kaisa911/CodingInterviews/blob/master/solution/33-Getresber_Solution.js) |
 
