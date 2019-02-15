@@ -31,5 +31,4 @@
 | 33 | [Getresber_Solution 丑数](https://github.com/kaisa911/CodingInterviews/blob/master/solution/33-Getresber_Solution.js) |
 | 34 | [FirstNotRepeatingChar 第一个只出现一次的字符](https://github.com/kaisa911/CodingInterviews/blob/master/solution/34-FirstNotRepeatingChar.js) |
 | 37 | [GetNumberOfK 数字在排序数组中出现的次数](https://github.com/kaisa911/CodingInterviews/blob/master/solution/37-GetNumberOfK.js) |
-
-
+| 40 | [FindNumsAppearOnce 数组中只出现一次的数字](https://github.com/kaisa911/CodingInterviews/blob/master/solution/40-FindNumsAppearOnce.js) |
