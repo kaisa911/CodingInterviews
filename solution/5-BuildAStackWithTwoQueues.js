@@ -1,14 +1,12 @@
-function Stack() {
-  const arr = [];
-  this.push = node => {
-    arr.push(node);
-  };
-  this.pop = () => {
-    return arr.pop();
-  };
-  this.isEmpty = () => {
-    return arr.length === 0;
-  };
+class Stack {
+  constructor() {
+    this.arr = [];
+  }
+  push = node => this.arr.push(node);
+
+  pop = () => this.arr.pop();
+
+  isEmpty = () => this.arr.length === 0;
 }
 
 const stack1 = new Stack();
